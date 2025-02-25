@@ -21,7 +21,8 @@ The project includes multiple **Tableau dashboards**, such as:
 - **Profit Analysis by Region**  
 
 ### 📸 Sample Dashboard  
-![image](https://github.com/user-attachments/assets/7d834393-f9d1-460e-8491-e56831ac769e)
+![image](https://github.com/user-attachments/assets/beea0879-aeb4-4e13-a7b1-57eaa79262ea)
+
 
 
 ## 🛠 Tools Used  
