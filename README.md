@@ -16,7 +16,9 @@ The dataset includes transaction records with fields such as:
 
 ## 📊 Visualizations  
 The project includes multiple **Tableau dashboards**, such as:  
-- **Sales and Profit Comparison by Category**  
+- **Sales and Profit Comparison by Category**
+- ![image](https://github.com/user-attachments/assets/b2225dac-369d-4f06-ac7e-f89a073d957a)
+
 - **Sales by Region and Category**  
 - **Profit Analysis by Region**  
 
